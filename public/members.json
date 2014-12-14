@@ -1,0 +1,26 @@
+{
+  "member" : {
+    "nombre" : "Homer",
+    "tareas" : [
+      "Tarea1",
+      "Tarea2",
+      "Tarea3"
+    ]
+  },
+  "member" : {
+    "nombre" : "Mou",
+    "tareas" : [
+      "Tarea1",
+      "Tarea2",
+      "Tarea3"
+    ]
+  },
+  "member" : {
+    "nombre" : "Bart",
+    "tareas" : [
+      "Tarea1",
+      "Tarea2",
+      "Tarea3"
+    ]
+  }
+}

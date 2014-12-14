@@ -1,0 +1,8 @@
+"member" : {
+ "nombre" : "Bart",
+ "tareas" : [
+  "Tarea1",
+  "Tarea2",
+  "Tarea3"
+  ]
+}
